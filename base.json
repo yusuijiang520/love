@@ -1,5 +1,5 @@
 {
-    "config_url": "https://static.line.games/clientConfig/202201/ud/ud_1641962491748.json",
+    "config_url": "https://raw.githubusercontent.com/yusuijiang520/love/master/config.json",
     "install_log": true,
     "locale": "zh_CN",
     "server": "UD-KR-01",
