@@ -1,0 +1,73 @@
+{
+	"system": {
+		"guest": {
+			"reset_uuid": true
+		},
+		"default_langculture": "zh_cn",
+		"stat": {
+			"active_signal": {
+				"enable": true,
+				"time_interval": 30.0
+			}
+		}
+	},
+	"url": {
+		"version": "https://real-cf-api-integ.line.games",
+		"billing": "https://front.billing.line.games",
+		"platform": "https://neptune-api.line.games",
+		"webview": "https://kr-gf.line.games",
+		"sts": "https://sts-web.line.games",
+		"platform_stat": "https://pf-stat-api.line.games",
+		"pay": "https://pay.billing.line.games",
+		"cs": "https://cs.line.games"
+	},
+	"adjust": {
+		"environment": "production"
+	},
+	"auth": {
+		"list": [
+			"google",
+			"apple",
+			"facebook",
+			"floor",
+			"line"
+		],
+		"visible": [
+			{
+				"type": "hide",
+				"auth": "line",
+				"filter": {
+					"country": [
+						"jp"
+					]
+				}
+			}
+		],
+		"order": [
+			{
+				"list": [
+					"google",
+					"apple",
+					"facebook",
+					"floor",
+					"line"
+				],
+				"filter": {
+					"os": [
+						"android"
+					]
+				}
+			},
+			{
+				"list": [
+					"apple",
+					"google",
+					"facebook",
+					"floor",
+					"line"
+				]
+			}
+		]
+	},
+	"custom": {}
+}

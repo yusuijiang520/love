@@ -1,0 +1,17 @@
+{
+    "config_url": "https://static.line.games/clientConfig/202201/ud/ud_1641962491748.json",
+    "install_log": true,
+    "locale": "zh_CN",
+    "server": "UD-KR-01",
+    "terms_once": {
+        "agree": true,
+        "country": "CN",
+        "data": {
+            "nightPushAgreeYn": "N",
+            "privacyAgreeYn": "Y",
+            "pushAgreeYn": "Y",
+            "rndId": "AEFC5ACD3EF14B1DBF1E7556DB7568D0_1642253153",
+            "termsAgreeYn": "Y"
+        }
+    }
+}
