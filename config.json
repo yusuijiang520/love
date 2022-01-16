@@ -3,7 +3,7 @@
 		"guest": {
 			"reset_uuid": true
 		},
-		"default_langculture": "zh_cn",
+		"default_langculture": "zh_CN",
 		"stat": {
 			"active_signal": {
 				"enable": true,
