@@ -1,6 +1,5 @@
 if ($request.url.indexOf('jp.livelog.nexon.com') != -1) {
     if($response.status!=200){
-        $notification.post("验证通过", "", "");
         $done({status: 200, headers: $response.headers, body: ' {
     "appid": "com.nexon.mdnf",
     "tpatype": 110,
