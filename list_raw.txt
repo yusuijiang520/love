@@ -60,11 +60,11 @@ vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@www.visa.com.tw:80?encryption=none&
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@www.visakorea.com:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇺🇸 美国 GCore 10
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@www.whatismyip.com:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇺🇸 美国 GCore 8
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@www.whoer.net:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇺🇸 美国 旧金山 4
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@138.2.12.177:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇹🇼 台湾 DP1
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@140.238.39.132:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇹🇼 台湾 DP2
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@141.147.189.220:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇹🇼 台湾 DP3
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@150.230.101.152:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇹🇼 台湾 DP4
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@150.230.97.53:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇹🇼 台湾 DP5
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@168.138.209.188:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇹🇼 台湾 DP6
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@168.138.210.122:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇹🇼 台湾 DP7
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@168.138.218.110:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#🇹🇼 台湾 DP8
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@138.2.12.177:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#台湾 DP1
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@140.238.39.132:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#台湾 DP2
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@141.147.189.220:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#台湾 DP3
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@150.230.101.152:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#台湾 DP4
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@150.230.97.53:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#台湾 DP5
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@168.138.209.188:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#台湾 DP6
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@168.138.210.122:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#台湾 DP7
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@168.138.218.110:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#台湾 DP8
