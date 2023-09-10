@@ -1,13 +1,13 @@
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@150.230.204.80:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国 加利福尼亚
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@168.138.207.23:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#巴西
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@168.138.207.23:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#日本东京
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@150.230.192.191:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国 加利福尼亚
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@131.186.56.43:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国 马萨诸塞 波士顿
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@131.186.56.12:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国 马萨诸塞 波士顿
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@155.248.162.18:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国 加利福尼亚
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@138.2.22.180:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国 加利福尼亚
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@140.83.35.197:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#澳大利亚
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@141.147.160.15:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#瑞典
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@141.147.179.193:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#瑞典
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@141.147.160.15:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#日本东京
+vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@141.147.179.193:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#日本东京
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@cdn.anycast.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 1
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@icook.hk:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 2
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@shopify.com:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 3
