@@ -34,7 +34,6 @@ vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@russia.com:80?encryption=none&secur
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@ip.sb:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 24
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@www.4chan.org:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 25
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@www.glassdoor.com:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 26
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@xn--b6gac.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 27
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@www.digitalocean.com:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 28
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@www.udemy.com:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 29
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@cdn-all.xn--b6gac.eu.org:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 30
@@ -44,7 +43,5 @@ vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@toy-people.com:80?encryption=none&s
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@pixiv.net:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 34
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@comicabc.com:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 35
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@icook.tw:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 36
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@gamer.com.tw:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 37
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@steamdb.info:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 38
 vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@toy-people.com:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 39
-vless://0c05abe3-b599-4238-bb2d-dcf1f562ac7f@silkbook.com:80?encryption=none&security=none&fp=random&type=ws&host=www.335399288.workers.dev&path=%2F%3Fed%3D2048#美国-广东专线 DP 40
